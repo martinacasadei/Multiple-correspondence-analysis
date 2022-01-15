@@ -1,1 +1,1 @@
-# Multiple-correspondence-analysis
+# multiple-correspondence-analysis
